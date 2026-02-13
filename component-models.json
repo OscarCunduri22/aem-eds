@@ -257,7 +257,7 @@
     ]
   },
   {
-    "id": "userCard",
+    "id": "usercard",
     "fields": [
       {
         "component": "richtext",
