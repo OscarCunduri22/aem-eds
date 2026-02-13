@@ -1,0 +1,21 @@
+.user-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  max-width: 300px;
+}
+
+.user-card img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.user-card h2 {
+  margin: 12px 0 8px;
+  font-size: 20px;
+}
+
+.user-card p {
+  margin: 0;
+  color: #555;
+}
