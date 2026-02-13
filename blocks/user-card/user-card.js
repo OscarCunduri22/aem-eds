@@ -1,7 +1,5 @@
 export default function decorate(block) {
-
-  console.log("User card log")
-
+  
   const row = block.querySelector(':scope > div');
   if (!row) return;
 
